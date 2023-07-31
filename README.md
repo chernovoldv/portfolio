@@ -2,7 +2,11 @@
 
 Денис Черновол<br>
 +7-905-672-76-66<br>
-chernovoldv@gmail.com
+chernovoldv@gmail.com<br>
+Headhunter:<br>
+https://stary-oskol.hh.ru/applicant/resumes/view?resume=14caf2dfff0c37e7f10039ed1f73687a536b55<br>
+Geekjob:<br>
+https://geekjob.ru/geek/64c799f62d569f0017ee0f4e<br>
 
 ПОРТФОЛИО<br>								
 
