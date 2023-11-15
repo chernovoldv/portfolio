@@ -1,4 +1,4 @@
-Денис Черновол<br>
+Черновол Денис<br>
 +7-905-672-76-66<br>
 chernovoldv@gmail.com<br>
 www.linkedin.com/in/chernovoldv/<br>
