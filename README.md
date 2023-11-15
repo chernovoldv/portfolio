@@ -14,7 +14,8 @@ https://docs.google.com/document/d/1T5fxbrEEFToSGvF1AtSdQna74L8JsYG2/edit?usp=sh
 Рекомендательное письмо:<br>
 https://drive.google.com/file/d/1NKZVhsn-6MnrNhZxvQPT8Z_MTZRTYhsX/view?usp=sharing<br>
 
-mentor_service_case<br>
+
+MENTOR_SERVICE_CASE<br>
 Онлайн-сервис «Поиск ментора»<br>
 
 Ситуация:<br>
@@ -23,13 +24,13 @@ mentor_service_case<br>
  Продакт-менеджер начал подготовку к новому этапу развития приложения и попросил вас собрать данные о работе сервиса.<br>
 
  
-mentor_service_dashboard<br>
+MENTOR_SERVICE_DASHBOARD<br>
 Ситуация:<br>
 Вы работаете аналитиком в онлайн-сервисе “Поиск ментора”. Это сервис, который помогает менторам и менти найти друг друга.<br>
 Встречи проходят на площадке сервиса. Назначить встречу можно в личном кабинете после авторизации на сайте.<br>
 Продакт-менеджер начал подготовку к новому этапу развития приложения и попросил вас собрать данные о работе сервиса.<br>
 
-fifo_calculations_case<br>
+FIFO_CALCULATION_CASE<br>
 Ситуация:<br>
 У меня открыто 2 брокерских счета у Finam и Тинькофф. <br>
 Мне необходимо самостоятельно отчитываться прибыли/убытках от продажи валюты.<br>
