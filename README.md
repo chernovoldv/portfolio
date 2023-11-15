@@ -40,3 +40,13 @@ Eduson<br>
 Компьютер: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, SciPy, re, Scikit-learn, SDV), Power BI, Statistica, MS Excel, SAP ERP, 1С: Предприятие.<br>
 Языки: английский (Access A2)<br>
 Интересы: аналитическая и художественная литература, регулярно знакомлюсь с актуальными новостями в сфере анализа данных, экономики.<br>
+
+
+Резюме:<br>
+https://docs.google.com/document/d/1jAJvCrmEHKHWXRJC59mhGjGvqqamlgWs/edit?usp=sharing&ouid=113752785996722037226&rtpof=true&sd=true<br>
+
+Портфолио:<br>
+https://docs.google.com/document/d/1T5fxbrEEFToSGvF1AtSdQna74L8JsYG2/edit?usp=sharing&ouid=113752785996722037226&rtpof=true&sd=true<br>
+
+Рекомендательное письмо:<br>
+https://drive.google.com/file/d/1NKZVhsn-6MnrNhZxvQPT8Z_MTZRTYhsX/view?usp=sharing<br>
