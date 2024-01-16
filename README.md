@@ -15,6 +15,10 @@ https://docs.google.com/document/d/1T5fxbrEEFToSGvF1AtSdQna74L8JsYG2/edit?usp=sh
 Рекомендательное письмо:<br>
 https://drive.google.com/file/d/1NKZVhsn-6MnrNhZxvQPT8Z_MTZRTYhsX/view?usp=sharing<br>
 
+DAG_SEND_ALERTS_REPORT<br>
+
+Создание системы алертов для приложения, чтобы своевременно реагировать на технические сбой в работе сервиса, сбои в ETL-процессах, ошибки при обработке данных, внешние факторы и т.д.
+
 
 MENTOR_SERVICE_CASE<br>
 Онлайн-сервис «Поиск ментора»<br>
