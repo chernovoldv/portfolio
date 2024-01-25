@@ -3,6 +3,7 @@
 https://t.me/chernovoldv<br>
 chernovoldv@gmail.com<br>
 www.linkedin.com/in/chernovoldv/<br>
+hh.ru/resume/14caf2dfff0c37e7f10039ed1f73687a536b55<br>
 <br>
 Должность: data analyst<br>
 
